@@ -86,5 +86,6 @@ Ambos integrantes revisamos la solución final y participamos en el video de exp
 5. Ejecutar el método `main`. Los resultados de las operaciones con las colecciones se mostrarán en la consola del IDE.
 
 ## 🎥 Video de Exposición
-Enlace al video de sustentación en YouTube (con cámaras encendidas y explicación de las decisiones técnicas):
-*[PEGAR AQUÍ EL ENLACE DE YOUTUBE]*
+Enlace al video de sustentación en YouTube:
+*[Haz clic aquí para ver el video de sustentación](https://drive.google.com/file/d/1so9QB0i3OMca6WBGXGKuZASO-ewncE_5/view?usp=sharing)*
+
